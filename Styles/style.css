@@ -1,0 +1,16 @@
+p{
+    font-family: 'Nokora', Roboto;
+}
+#logo{
+    margin-top: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+#navigation{
+    background: #ddd;
+}
+#content{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background: #ccc;
+}
